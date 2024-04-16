@@ -100,4 +100,4 @@ The feature selection techniques used are:
 
 # RESULT:
 
-Thus feature scaling and feature selection has been executed succesfully.
+Thus feature scaling and feature selection has been executed successfully.
