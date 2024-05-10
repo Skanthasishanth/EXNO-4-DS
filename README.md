@@ -35,67 +35,49 @@ The feature selection techniques used are:
 
 # CODING AND OUTPUT:
 
-![exp4_1](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/258e7113-8b32-433c-9813-edd88fab8d2e)
 
+![1](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/78dad467-4e6a-4a21-a924-d68d8b72ee4a)
 
-![exp4_2](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/f344117a-1be5-4777-bf3a-fd26cd46ba07)
+![2](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/38d67d6f-dea8-4a07-8ea8-763098b9e7b4)
 
+![3](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/2f836357-3994-40c5-a8eb-4019fdf37d66)
 
-![exp4_3](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/b415216a-7fdb-48ea-801f-43fa8b0d5b05)
+![4](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/4eb87cff-332f-41a3-9716-420d9a685ff0)
 
+![5](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/221fb2ab-d360-44e8-90a2-fa915da972c8)
 
-![exp4_4](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/e0f208b0-28e1-48ce-9eff-3b69a4bcc262)
+![6](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/7e1c3c35-99b4-49ef-bf90-b6cb664bafaa)
 
+![7](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/07922880-a3ed-441d-8106-0cfed573b84f)
 
-![exp4_5](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/eccef14a-b121-42dd-b6bf-c62cb9604590)
+![8](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/9a4e0012-6ee2-4c36-8a72-1a023fab23ed)
 
+![9](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/15742ade-41be-4857-bb9e-6f095f5148d2)
 
-![exp4_6](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/5f6ef39d-82b7-4479-976b-0887fb6c49af)
+![10](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/f7ae7162-85e5-49e4-872e-8c49027e2f8c)
 
+![11](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/b6d068a2-212e-47ce-9181-c9872ca27714)
 
-![exp4_7](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/500d3db7-8c67-4ae9-b7a9-380cb6f0f584)
+![12](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/d047cb8e-2295-4336-9d5b-a8f44c944c9e)
 
+![13](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/87947dff-659d-43e3-8c0e-7951d485456c)
 
+![14](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/dbfe8336-e5c7-465c-8e5c-51a57856d6e1)
 
-![exp4_8](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/6034766b-73c6-42d8-b22b-c0c640cfcbc0)
+![15](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/12a72551-df4f-4e96-89d6-390a1bdde3fb)
 
+![16](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/f8d66633-ea8e-45f6-b02a-dce2aa74ecee)
 
+![17](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/63c783b9-5763-4c93-aad7-cd52e7dae1e3)
 
-![exp4_9](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/23285ca2-a06a-4fea-ad72-2c1cdb3b3b49)
+![18](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/73927a93-ab3d-4512-b1fb-238a2e73e777)
 
+![19](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/e0a44772-b51c-4479-8028-0ddf8463016e)
 
+![20](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/7401c898-f728-448e-b9a3-851aa674ff2b)
 
-![exp4_10](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/79f84fb2-0809-4420-a5a8-3750c4dcab14)
+![21](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/4d9f934a-282f-41a6-8b15-28b1340da876)
 
-
-
-![exp4_11](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/5d6bfe71-ab6b-4948-ab7a-d45f900ad9d1)
-
-
-
-![exp4_12](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/f85cb7a7-6669-4cd0-983c-68d5d12067bf)
-
-
-
-![exp4_13](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/2a96d23c-bfb9-4005-b685-46a3f2497d8d)
-
-
-![exp4_14](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/84b7298b-c6ab-4cd9-b6bf-9357cb524410)
-
-
-![exp4_15](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/073f4be5-66c7-4ee3-a2e7-add7e7441da6)
-
-
-![exp4_16](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/8842ff2f-30cf-4f93-89e8-cd98c6f9a04c)
-
-
-![exp4_17](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/dcee1fe0-fee5-4760-93ec-6935f6ce79b3)
-
-
-![exp4_18](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/f780397b-b4a2-4b18-9d91-8dd7ee0aeac5)
-
-
-![exp4_19](https://github.com/Skanthasishanth/EXNO-4-DS/assets/118298456/851fc184-aeee-4ea0-8198-d2cb60d3ecf7)
 
 
 # RESULT:
